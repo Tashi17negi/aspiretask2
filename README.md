@@ -1,7 +1,7 @@
 Movie Rating Prediction
 
 Overview
-This repository contains a project for predicting movie ratings using machine learning techniques. The goal of this project is to build a model that can accurately predict the ratings that users will give to movies based on historical rating data and other relevant features.
+This repository contains a project for predicting movie ratings using machine-learning techniques. The goal of this project is to build a model that can accurately predict the ratings that users will give to movies based on historical rating data and other relevant features.
 
 Table of Contents
 Introduction
@@ -17,5 +17,6 @@ Movie rating prediction is a common problem in the field of recommender systems.
 
 Dataset
 The dataset used for this project is the MovieLens dataset, which contains millions of movie ratings from users.
+Link:https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
 Number of Instances: Varies depending on the version of the dataset
-Features: Includes user IDs, movie IDs, ratings, and timestamps. Additional features such as movie genres and user demographics can also be included.
+Features: Includes Name, Year, Duration, Genre, Rating, Votes, Director, Actor 1, Actor 2, Actor 3
